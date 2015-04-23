@@ -13,3 +13,20 @@ What ist the tasks?
 
 For the URI I have chosen a combination of my given name and my last name. I have decided to take a top-level-domain ".ch".
 For the hosting I would recommend the Swisscom. Swisscom can guarantee a secure server host. --> Server locacated in Switzerland
+
+- http://www.jaimeramirez.ch/home
+- http://www.jaimeramirez.ch/about
+- http://www.jaimeramirez.ch/education
+- http://www.jaimeramirez.ch/education/bfh
+- http://www.jaimeramirez.ch/education/feusi
+- http://www.jaimeramirez.ch/experciences/swisscom/Campus_Ambassador
+- http://www.jaimeramirez.ch/experciences/swisscom/IT_Security_Intership
+- http://www.jaimeramirez.ch/experiences/other
+- http://www.jaimeramirez.ch/interested_in
+- http://www.jaimeramirez.ch/interested_in/hobbies
+- http://www.jaimeramirez.ch/interested_in/sport
+- http://www.jaimeramirez.ch/interested_in/IT
+- http://www.jaimeramirez.ch/contactme
+- http://www.jaimeramirez.ch/links
+
+dfssdf
