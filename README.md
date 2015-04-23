@@ -9,7 +9,7 @@ What ist the tasks?
 - describing why the IRI patterns were chosen like this
 - explaning in a short summary what "Linked Data" is 
 
-# Design my own IRI patterns
+## Design my own IRI patterns
 
 For the URI I have chosen a combination of my given name and my last name. I have decided to take a top-level-domain ".ch".
 For the hosting I would recommend the Swisscom. Swisscom can guarantee a secure server host. --> Server locacated in Switzerland
