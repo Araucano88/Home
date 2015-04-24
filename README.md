@@ -50,3 +50,7 @@ You see. It’s the same building and the same things in there, but with a bit o
 
 In the Linked Data Web we mark the things and hallways in the building, enabling jinns such as LinD to help you to find and use your treasures. As quick and comfortable as possible and no matter where they are.
 
+# Reference List
+- https://webofdata.wordpress.com/2010/05/20/linked-data-for-dummies/ (24.04.2015)
+- https://www.youtube.com/watch?v=4x_xzT5eF5Q (24.04.2015)
+
