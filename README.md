@@ -26,7 +26,7 @@ http://www.jaimeramirez.ch/interested_in http://www.jaimeramirez.ch/interested_i
 http://www.jaimeramirez.ch/contactme | The part /contactme ist like my bussines card.
 http://www.jaimeramirez.ch/links | On the /links page there is space for further information which I like to link.
 
-# What is Linked Data?
+# What is Linked Data???
 
 Imagine you’re in a huge building with several storeys, each with an incredible large amount of rooms. Each room has tons of things in it. It’s utterly dark in that building, all you can do is walk down a hallway till you bang into a door or a wall. All the rooms in the buildings are somehow connected but you don’t know how. Now, I tell you that in some rooms there is a treasure hidden and you’ve got one hour to find it.
 
