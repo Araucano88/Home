@@ -1,8 +1,6 @@
 # WBTC_2015
 This repository is written in the module Web Technology at Bern University of Applied Science, Bechelor in Business Information Systems.
 
-What ist the tasks?
-
 ```What is the tasks of this exercise? ```
 
 - design IRI patterns for a dataspace on the web (own profile)
