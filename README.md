@@ -20,9 +20,8 @@ Homepage URI  | Description
 http://www.jaimeramirez.ch/home  | This is the Landingpage/Startpage. 
 http://www.jaimeramirez.ch/about  | On this part of the Webside you can find information about me and my life.
 http://www.jaimeramirez.ch/about | On this part of the Webside you can find information about me and my life
-http://www.jaimeramirez.ch/education, http://www.jaimeramirez.ch/education/bfh ,http://www.jaimeramirez.ch/education/feusi|asdsda
-- - http://www.jaimeramirez.ch/experciences/swisscom/campus_ambassador
-- http://www.jaimeramirez.ch/experciences/swisscom/it_security_intership|aadsdsa
+http://www.jaimeramirez.ch/education, http://www.jaimeramirez.ch/education/bfh http://www.jaimeramirez.ch/education/feusi| On this part of the Webside you can find
+http://www.jaimeramirez.ch/experciences/swisscom/campus_ambassador , http://www.jaimeramirez.ch/experciences/swisscom/it_security_intership | In the part education you can find information about my school career. Also you can find information about my work experience.
 
  
 
