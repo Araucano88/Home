@@ -15,14 +15,16 @@ Everyone who knows me and want to have information about me can remember my adre
 I have decided to take a top-level-domain ".ch".
 For the hosting I would recommend the Swisscom. Swisscom can guarantee a secure server host. --> Server locacated in Switzerland.
 
-Homepage URI  | Describtion
+Homepage URI  | Description
 ------------- | -------------
+http://www.jaimeramirez.ch/home  | This is the Landingpage/Startpage. 
 Content Cell  | Content Cell
-Content Cell  | Content Cell
+http://www.jaimeramirez.ch/about | On this part of the Webside you can find information about me and my life.
+             |
+             |
 
-- http://www.jaimeramirez.ch/home
-This is the Landingpage/Startpage. 
-- http://www.jaimeramirez.ch/about
+ 
+
 On this part of the Webside you can find information about me and my life. 
 - http://www.jaimeramirez.ch/education
 - http://www.jaimeramirez.ch/education/bfh
