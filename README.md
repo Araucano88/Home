@@ -23,13 +23,8 @@ http://www.jaimeramirez.ch/about | On this part of the Webside you can find info
 http://www.jaimeramirez.ch/education, http://www.jaimeramirez.ch/education/bfh http://www.jaimeramirez.ch/education/feusi| On this part of the Webside you can find
 http://www.jaimeramirez.ch/experciences/swisscom/campus_ambassador http://www.jaimeramirez.ch/experciences/swisscom/it_security_intership | In the part education you can find information about my school career. Also you can find information about my work experience. 
 http://www.jaimeramirez.ch/interested_in http://www.jaimeramirez.ch/interested_in/hobbies http://www.jaimeramirez.ch/interested_in/sport http://www.jaimeramirez.ch/interested_in/it | The part /interested_in gives space for my hobbies and things wicht interest me.
-
- 
-- http://www.jaimeramirez.ch/contactme
-The part /contactme ist like my bussines card.
-- http://www.jaimeramirez.ch/links
-On the /links page there is space for further information which I like to link.
-
+http://www.jaimeramirez.ch/contactme | The part /contactme ist like my bussines card.
+http://www.jaimeramirez.ch/links | On the /links page there is space for further information which I like to link.
 
 # What is Linked Data?
 
