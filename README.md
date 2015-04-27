@@ -9,26 +9,32 @@ This repository is written in the module Web Technology at Bern University of Ap
 
 ## Design my own IRI patterns
 
-For the URI I have chosen a combination of my given name and my last name. I have decided to take a top-level-domain ".ch".
+I think that using my name as the domain address is a reasonable option.
+Everyone who knows me and want to have information about me can remember my adress because of my name.
+
+I have decided to take a top-level-domain ".ch".
 For the hosting I would recommend the Swisscom. Swisscom can guarantee a secure server host. --> Server locacated in Switzerland
 
 - http://www.jaimeramirez.ch/home
+This is the Landingpage/Startpage. 
 - http://www.jaimeramirez.ch/about
+On this part of the Webside you can find information about me and my life. 
 - http://www.jaimeramirez.ch/education
 - http://www.jaimeramirez.ch/education/bfh
 - http://www.jaimeramirez.ch/education/feusi
 - http://www.jaimeramirez.ch/experciences/swisscom/campus_ambassador
 - http://www.jaimeramirez.ch/experciences/swisscom/it_security_intership
-- http://www.jaimeramirez.ch/experiences/other
+- In the part education you can find information about my school career. Also you can find information about my work experience. 
 - http://www.jaimeramirez.ch/interested_in
 - http://www.jaimeramirez.ch/interested_in/hobbies
 - http://www.jaimeramirez.ch/interested_in/sport
 - http://www.jaimeramirez.ch/interested_in/it
+The part /interested_in gives space for my hobbies and things wicht interest me.
 - http://www.jaimeramirez.ch/contactme
+The part /contactme ist like my bussines card.
 - http://www.jaimeramirez.ch/links
+On the /links page there is space for further information which I like to link.
 
-I have chose the URI`s above because it is covering a lot of information.
-THe /home page ist the first page of the webste like the landingpage. under /about you can find information about me and my life. You can found information about my school and working background in the parts /education and /experiences. The part /interested_in gives space for my hobbies and things wicht interest me. THe part /contactme ist like my bussines card. On the /links page there is space for further information which I like to link.
 
 # What is Linked Data?
 
