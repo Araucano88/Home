@@ -13,10 +13,15 @@ I think that using my name as the domain address is a reasonable option.
 Everyone who knows me and want to have information about me can remember my adress because of my name.
 
 I have decided to take a top-level-domain ".ch".
-For the hosting I would recommend the Swisscom. Swisscom can guarantee a secure server host. --> Server locacated in Switzerland
+For the hosting I would recommend the Swisscom. Swisscom can guarantee a secure server host. --> Server locacated in Switzerland.
+
+Homepage URI  | Describtion
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
 - http://www.jaimeramirez.ch/home
-                                                                                                         This is the Landingpage/Startpage. 
+This is the Landingpage/Startpage. 
 - http://www.jaimeramirez.ch/about
 On this part of the Webside you can find information about me and my life. 
 - http://www.jaimeramirez.ch/education
