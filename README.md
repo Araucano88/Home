@@ -26,7 +26,7 @@ http://www.jaimeramirez.ch/interested_in http://www.jaimeramirez.ch/interested_i
 http://www.jaimeramirez.ch/contactme | The part /contactme ist like my bussines card.
 http://www.jaimeramirez.ch/links | On the /links page there is space for further information which I like to link.
 
-# Design my own IRI patterns other solution
+## Design my own IRI patterns other solution
 
 # What is Linked Data???
 
