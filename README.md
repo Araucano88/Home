@@ -1,4 +1,11 @@
 # Exercise 2
+BLA BLA
+
+| Name | Link          |
+| ------------- | ----------- |
+| Help      | Display the help window.|
+| Close     | Closes a window     |
+
 
 # Exercise 1
 This repository is written in the module Web Technology at Bern University of Applied Science, Bechelor in Business Information Systems.
