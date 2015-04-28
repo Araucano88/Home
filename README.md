@@ -1,6 +1,6 @@
-# WBTC_2015
+# Exercise 2
 
-# 1 Exercise
+# Exercise 1
 This repository is written in the module Web Technology at Bern University of Applied Science, Bechelor in Business Information Systems.
 
 ```What is the tasks of this exercise? ```
