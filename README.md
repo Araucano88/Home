@@ -1,6 +1,5 @@
 # Exercise 2
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html  xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
 <head>
 <title>
 Jaime Estéban Ramirez`s Profile
