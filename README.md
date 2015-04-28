@@ -1,4 +1,52 @@
 # Exercise 2
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html  xmlns:foaf="http://xmlns.com/foaf/0.1/">
+<head>
+<title>
+Jaime Estéban Ramirez`s Profile
+</title>
+</head>
+<body>
+
+<ul><p><b>Social Media</b></p></ul>
+<li> <p about="https://www.facebook.com/jaime.e.ramirez.5">
+	jaime is on <a rel="foaf:member" href="http://www.facebook.com">Facebook</a>.</p></li>
+<li> <p about="https://instagram.com/j_e_ramirez">
+	jaime is on <a rel="foaf:member" href="http://www.instagram.com">Instagram</a>.</p></li>
+</ul>
+
+<ul><p><b>Relationships</b></p></ul>
+<li> <p about="http://jaimeramirez.ch/relationships">
+	My brother <a rel="foaf:knows" href="https://www.facebook.com/robinson.kundert?fref=ts">Robinson</a></p></li>
+<li> <p about="http://jaimeramirez.ch/relationships">
+	My bestfriend <a rel="foaf:knows" href="https://www.facebook.com/Bitoooor?fref=ts">Victor</a></p></li>
+</ul>
+
+<ul><p><b>Interests</b></p></ul>
+<li> <p about="http://jaimeramirez.ch/interests">
+	jaime is interested in <a rel="foaf:interest" href="http://en.wikipedia.org/wiki/Association_football">soccer</a>.</p></li>
+<li> <p about="http://jaimeramirez.ch/interests">
+	jaime is playing in <a rel="foaf:interest" href="http://www.fcwabern.ch/">Fc Wabern</a>.</p></li>
+<li> <p about="http://jaimeramirez.ch/interests">
+	jaime is interested in <a rel="foaf:interest" href="http://en.wikipedia.org/wiki/Music">music</a>.</p></li>
+<li> <p about="http://jaimeramirez.ch/interests">
+	jaime is interested in <a rel="foaf:interest" href="http://en.wikipedia.org/wiki/Information_technology">Information technology</a>.</p></li>
+</ul>
+
+<ul><p><b>Education and work experience</b></p></ul>
+<li> <p about="http://jaimeramirez.ch/workexperience/administration">
+	jaime is working <a rel="foaf:workplaceHomepage" href="https://ict.swisscom.ch/2014/12/startschuss-fuer-die-campus-ambassadoren/"> Swisscom AG - Campus Ambassador </a>.</p></li>
+<li> <p about="http://jaimeramirez.ch/education/university/bachelor">
+	jaime is studying <a rel="foaf:education" href="http://en.wikipedia.org/wiki/Business_informatics">Information Systems</a> at <a rel="foaf:interest" href="http://www.bfh.ch/">Bern University of Applied Sciences</a>.</p></li>
+</ul>
+
+</body>
+</html>
+
+
+
+
+---------------------------------------------------------------------------------------------------------------
 BLA BLA
 
 | Name | Link          |
