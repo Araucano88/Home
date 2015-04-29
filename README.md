@@ -85,7 +85,7 @@ http://www.jaimeramirez.ch/links | On this part of the Webside you found links w
 ## Design my own IRI patterns other solution
 comming soon
 
-# What is Linked Data???
+# What is Linked Data? from the internet
 
 Imagine you’re in a huge building with several storeys, each with an incredible large amount of rooms. Each room has tons of things in it. It’s utterly dark in that building, all you can do is walk down a hallway till you bang into a door or a wall. All the rooms in the buildings are somehow connected but you don’t know how. Now, I tell you that in some rooms there is a treasure hidden and you’ve got one hour to find it.
 
@@ -100,6 +100,9 @@ Well, not really. LinD does not understand what a chocolate bar is, pretty much 
 You see. It’s the same building and the same things in there, but with a bit of a help in forms of markers we can find and gather things much quicker and with less disappointments involved.
 
 In the Linked Data Web we mark the things and hallways in the building, enabling jinns such as LinD to help you to find and use your treasures. As quick and comfortable as possible and no matter where they are.
+
+# What is Linked Data? - by Jaime
+
 
 # Reference List
 - https://webofdata.wordpress.com/2010/05/20/linked-data-for-dummies/ (24.04.2015)
