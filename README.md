@@ -102,6 +102,9 @@ You see. It’s the same building and the same things in there, but with a bit o
 In the Linked Data Web we mark the things and hallways in the building, enabling jinns such as LinD to help you to find and use your treasures. As quick and comfortable as possible and no matter where they are.
 
 # What is Linked Data? - by Jaime
+Even the children in our time have a basic technical experience, so I hope that will be understandable for them. 
+
+Linked data is based on raw data, which exists in the web. Raw data could be a birthday, an address, a name and so on. Linked data however, relates the raw data together and give the raw data a sense. As an Example, if the name is relate to an address and a birthday it is no longer just a name, instead it is a person with a defined birthday and an address. This little example could be expanding to further data (respectively persons, places, things and so on) and properties. 
 
 
 # Reference List
