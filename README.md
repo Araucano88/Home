@@ -83,7 +83,18 @@ http://www.jaimeramirez.ch/contactme | On this part of the Webside you can find 
 http://www.jaimeramirez.ch/links | On this part of the Webside you found links wich I like to link.
 
 ## Design my own IRI patterns other solution
-comming soon
+Jaime Ramirez (http://jaimeramirez.ch/)
+Education
+•	School X (http://jaimeramirez.ch/school/#x)
+•	School Y (http://jaimeramirez.ch/school/#y)
+Work experience
+•	Company A (http://jaimeramirez/company/#a)
+•	Company B (http://jaimeramirez/company/#b)
+Hobbies
+•	Hobby P (http://jaimeramirez/hobbies/#p)
+•	Hobby Q (http://jaimeramirez/hobbies/#q)
+•	Hobby R (http://jaimeramirez/hobbies/#r)
+
 
 # What is Linked Data? - by Jaime
 Even the children in our time have a basic technical experience, so I hope that will be understandable for them. 
