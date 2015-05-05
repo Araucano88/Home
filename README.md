@@ -1,3 +1,6 @@
+# Exercise 3
+
+
 # Exercise 2
 
 <head>
@@ -47,12 +50,6 @@ Quelle: https://www.youtube.com/watch?v=N_GpbwMHeMQ
 
 
 ---------------------------------------------------------------------------------------------------------------
-BLA BLA
-
-| Name | Link          |
-| ------------- | ----------- |
-| Help      | Display the help window.|
-| Close     | Closes a window     |
 
 
 # Exercise 1
