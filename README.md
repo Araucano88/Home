@@ -5,7 +5,6 @@
 3.1 RDF
 
 @prefix foaf: <http://xmlns.com/foaf/0.1/> 
-
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 
 <https://www.facebook.com/jaime.e.ramirez.5>,
@@ -17,11 +16,15 @@
 	foaf:pastProject <https://github.com/Araucano88/WBTC_2015#exercise-1>
 	 
 
+3.2 SPARQL Queries
 
-
-3.2 SPQRQL Queries
-
-
+PREFIX dbp: <http://dbpedia.org/property/>
+SELECT ?Country ?Population_Census WHERE {
+?switzerland dbp:country "Switzerland"@en .
+?switzerland dbp:commonName ?Country .
+?switzerland dbp:populationCensus ?Population_Census
+}
+This is for the population census for switzerland --> DBpedia 
 
 # Exercise 2
 
