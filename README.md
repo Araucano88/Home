@@ -8,19 +8,11 @@
 
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 
-
-foaf:PersonalProfileDocument <http://jaimeramirez.ch/#me>;
-foaf:mbox <ramij2@bfh.ch.ch>
-
-<http://jaimeramirez.ch/#me> foaf:account <https://www.facebook.com/jaime.e.ramirez.5>,
-<https://plus.google.com/u/0/>;
+<https://www.facebook.com/jaime.e.ramirez.5>,
+rdf:type foaf:person;
 foaf:Name "Jaime Ramirez"
-
-
-foaf:nows
-<https://www.facebook.com/MichaSubramaniam>
-<https://www.facebook.com/pascal.zerzuben>
-
+foaf:mbox <ramij2@bfh.ch.ch>
+foaf:knows <https://www.facebook.com/MichaSubramaniam>, <https://www.facebook.com/pascal.zerzuben>
 
 foaf:interest 
 <http://de.dbpedia.org/page/Fitness>
