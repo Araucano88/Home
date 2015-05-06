@@ -4,6 +4,7 @@
 
 3.1 RDF
 
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax
 @prefix foaf: <http://xmlns.com/foaf/0.1/> 
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 
