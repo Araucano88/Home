@@ -9,16 +9,11 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>
 
 <https://www.facebook.com/jaime.e.ramirez.5>,
-rdf:type foaf:person;
-foaf:Name "Jaime Ramirez"
-foaf:mbox <ramij2@bfh.ch.ch>
-foaf:knows <https://www.facebook.com/MichaSubramaniam>, <https://www.facebook.com/pascal.zerzuben>
-
-foaf:interest 
-<http://de.dbpedia.org/page/Fitness>
-<http://dbpedia.org/page/Computer>
-<http://dbpedia.org/property/mainInterests/soccer>
-<http://dbpedia.org/property/mainInterests/music>
+	rdf:type foaf:person;
+	foaf:Name "Jaime Ramirez"
+	foaf:mbox <ramij2@bfh.ch.ch>
+	foaf:knows <https://www.facebook.com/MichaSubramaniam>, <https://www.facebook.com/pascal.zerzuben>
+	foaf:interest <http://de.dbpedia.org/page/Fitness>, <http://dbpedia.org/page/Computer>, ,<http://dbpedia.org/property/mainInterests/soccer> ,<http://dbpedia.org/property/mainInterests/music>
 
 
 
