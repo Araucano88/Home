@@ -16,11 +16,13 @@ foaf:mbox <ramij2@bfh.ch.ch>
 <https://plus.google.com/u/0/>;
 foaf:Name "Jaime Ramirez"
 
+
 foaf:nows
 <https://www.facebook.com/MichaSubramaniam>
 <https://www.facebook.com/pascal.zerzuben>
-foaf:interest 
 
+
+foaf:interest 
 <http://de.dbpedia.org/page/Fitness>
 <http://dbpedia.org/page/Computer>
 <http://dbpedia.org/property/mainInterests/soccer>
