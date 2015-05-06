@@ -24,6 +24,7 @@ SELECT ?Country ?Population_Census WHERE {
 ?switzerland dbp:commonName ?Country .
 ?switzerland dbp:populationCensus ?Population_Census
 }
+
 This is for the population census for switzerland --> using DBpedia as Endpoint
 
 # Exercise 2
