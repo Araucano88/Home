@@ -38,8 +38,8 @@ SELECT ?Switzerland_GDP WHERE {
 ?GDPCH sdmx-measure:obsValue ?Switzerland_GDP .
 }
 
-
 Quelle: 
+
 https://www.youtube.com/watch?v=Dxwo9DYWV_c
 
 https://www.youtube.com/watch?v=-Req24UaOHk
@@ -89,8 +89,11 @@ Jaime Estéban Ramirez`s Profile
 </body>
 </html>
 
-Quellen: https://www.youtube.com/watch?v=N_GpbwMHeMQ 
-	https://www.youtube.com/watch?v=xnUVHaPYMlg
+Quellen: 
+
+https://www.youtube.com/watch?v=N_GpbwMHeMQ 
+	
+https://www.youtube.com/watch?v=xnUVHaPYMlg
 
 
 ---------------------------------------------------------------------------------------------------------------
