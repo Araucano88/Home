@@ -38,6 +38,12 @@ SELECT ?Switzerland_GDP WHERE {
 ?GDPCH sdmx-measure:obsValue ?Switzerland_GDP .
 }
 
+
+Quelle: 
+https://www.youtube.com/watch?v=Dxwo9DYWV_c
+https://www.youtube.com/watch?v=-Req24UaOHk
+
+
 # Exercise 2
 
 <head>
