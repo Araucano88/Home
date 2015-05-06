@@ -41,6 +41,7 @@ SELECT ?Switzerland_GDP WHERE {
 
 Quelle: 
 https://www.youtube.com/watch?v=Dxwo9DYWV_c
+
 https://www.youtube.com/watch?v=-Req24UaOHk
 
 
