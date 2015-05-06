@@ -12,13 +12,13 @@
 	rdf:type foaf:person;
 	foaf:Name "Jaime Ramirez"
 	foaf:knows <https://www.facebook.com/MichaSubramaniam>, <https://www.facebook.com/pascal.zerzuben>
-	foaf:interest <http://de.dbpedia.org/page/Fitness>, <http://dbpedia.org/page/Computer>, 					<http://dbpedia.org/property/mainInterests/soccer> <http://dbpedia.org/property/mainInterests/music>
+	foaf:interest <http://de.dbpedia.org/page/Fitness>, <http://dbpedia.org/page/Information_technology>, 					<http://dbpedia.org/page/Association_football> <http://dbpedia.org/page/Music>
 	foaf:mbox <ramij2@bfh.ch.ch>
 	foaf:pastProject <https://github.com/Araucano88/WBTC_2015#exercise-1>
 	 
 
 3.2 SPARQL Queries
-
+This is for the population census for switzerland --> using DBpedia as Endpoint
 PREFIX dbp: <http://dbpedia.org/property/>
 SELECT ?Country ?Population_Census WHERE {
 ?switzerland dbp:country "Switzerland"@en .
@@ -26,7 +26,15 @@ SELECT ?Country ?Population_Census WHERE {
 ?switzerland dbp:populationCensus ?Population_Census
 }
 
-This is for the population census for switzerland --> using DBpedia as Endpoint
+This is for getting de Central goverment debt, total (% of GDP) for Switzerland for the year 2008 using the World Bank SPARQL Endpoint.
+
+SELECT ?Switzerland_GDP WHERE {
+?GDPCH a qb:Observation .
+?GDPCH property:indicator <http://worldbank.270a.info/classification/indicator/GC.DOD.TOTL.GD.ZS> .
+?GDPCH sdmx-dimension:refArea <http://worldbank.270a.info/classification/country/CH> .
+?GDPCH sdmx-dimension:refPeriod <http://reference.data.gov.uk/id/year/2008> .
+?GDPCH sdmx-measure:obsValue ?Switzerland_GDP .
+}
 
 # Exercise 2
 
