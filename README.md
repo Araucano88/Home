@@ -1,5 +1,31 @@
 # Exercise 3
 
+# RDF and SPARQL
+
+3.1 RDF
+
+@prefix foaf: <http://xmlns.com/foaf/0.1/> 
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+foaf:PersonalProfileDocument <http://jaimeramirez.ch/#me>;
+foaf:mbox <ramij2@bfh.ch.ch> .
+<http://jaimeramirez.ch/#me> foaf:account <https://www.facebook.com/jaime.e.ramirez.5>,
+<https://plus.google.com/u/0/>;
+foaf:Name "Jaime Ramirez"
+foaf:nows
+<https://www.facebook.com/MichaSubramaniam>
+<https://www.facebook.com/pascal.zerzuben>
+foaf:interest 
+<http://de.dbpedia.org/page/Fitness>
+<http://dbpedia.org/page/Computer>
+<http://dbpedia.org/property/mainInterests/soccer>
+<http://dbpedia.org/property/mainInterests/music>
+
+
+
+
+3.2 SPQRQL Queries
+
+
 
 # Exercise 2
 
@@ -45,7 +71,7 @@ Jaime Estéban Ramirez`s Profile
 </body>
 </html>
 
-Quelle: https://www.youtube.com/watch?v=N_GpbwMHeMQ 
+Quellen: https://www.youtube.com/watch?v=N_GpbwMHeMQ 
 	https://www.youtube.com/watch?v=xnUVHaPYMlg
 
 
