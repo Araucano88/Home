@@ -6,15 +6,20 @@
 
 @prefix foaf: <http://xmlns.com/foaf/0.1/> 
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+
 foaf:PersonalProfileDocument <http://jaimeramirez.ch/#me>;
-foaf:mbox <ramij2@bfh.ch.ch> .
+foaf:mbox <ramij2@bfh.ch.ch>
+
 <http://jaimeramirez.ch/#me> foaf:account <https://www.facebook.com/jaime.e.ramirez.5>,
 <https://plus.google.com/u/0/>;
 foaf:Name "Jaime Ramirez"
+
 foaf:nows
 <https://www.facebook.com/MichaSubramaniam>
 <https://www.facebook.com/pascal.zerzuben>
 foaf:interest 
+
 <http://de.dbpedia.org/page/Fitness>
 <http://dbpedia.org/page/Computer>
 <http://dbpedia.org/property/mainInterests/soccer>
