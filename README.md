@@ -14,7 +14,7 @@
 	foaf:knows <https://www.facebook.com/MichaSubramaniam>, <https://www.facebook.com/pascal.zerzuben>
 	foaf:interest <http://de.dbpedia.org/page/Fitness>, <http://dbpedia.org/page/Computer>, 			<http://dbpedia.org/property/mainInterests/soccer> ,<http://dbpedia.org/property/mainInterests/music>
 	foaf:mbox <ramij2@bfh.ch.ch>
-	foaf:pastProject <https://github.com/Araucano88/WBTC_2015>
+	foaf:pastProject <https://github.com/Araucano88/WBTC_2015#exercise-1>
 	
 
 
