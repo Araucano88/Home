@@ -18,7 +18,9 @@
 	 
 
 3.2 SPARQL Queries
+
 This is for the population census for switzerland --> using DBpedia as Endpoint
+
 PREFIX dbp: <http://dbpedia.org/property/>
 SELECT ?Country ?Population_Census WHERE {
 ?switzerland dbp:country "Switzerland"@en .
