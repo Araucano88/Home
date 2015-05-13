@@ -31,8 +31,14 @@ SELECT ?place WHERE {
 }
 
 3. Example
+Show all clubs where Lionel Messi has played untill now.
+I used this http://dbpedia.org/snorql/?query for get a list
 
 
+SELECT ?club WHERE 
+{
+  <http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/property/clubs> ?club
+}
 
 
 # Exercise 3
