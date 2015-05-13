@@ -1,3 +1,24 @@
+# Exercise 4
+
+1. Example
+For the first example i compare the total aera of Switzerland and Italy
+
+PREFIX prop: <http://dbpedia.org/property/>
+ASK
+{
+  <http://dbpedia.org/page/Switzerland> prop:areaTotal ?Schweiz .
+  <http://dbpedia.org/page/Italy> prop:areaTotal ?Italien .
+  FILTER(?Schweiz > ?Italien) .
+}   
+
+Result is NO
+
+Because the area from italy is bigger.
+Area Switzerland:41285000000.000000
+Area Italy:301338000000.000000
+
+
+
 # Exercise 3
 
 # RDF and SPARQL
