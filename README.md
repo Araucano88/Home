@@ -17,6 +17,22 @@ Because the area from italy is bigger.
 Area Switzerland:41285000000.000000
 Area Italy:301338000000.000000
 
+2. Example
+Get te countries of Europe.
+I used this http://dbpedia.org/snorql/?query for get a list wiht the names of the countries
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX yago: <http://dbpedia.org/class/yago/>
+PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>
+
+SELECT ?place WHERE {
+    ?place rdf:type yago:EuropeanCountries .
+    ?place rdf:type dbpedia-owl:Country
+}
+
+3. Example
+
+
 
 
 # Exercise 3
