@@ -40,6 +40,7 @@ SELECT ?club WHERE
   <http://dbpedia.org/resource/Lionel_Messi> <http://dbpedia.org/property/clubs> ?club
 }
 
+WHY LIONEL MESSI? BECAUSE HE IS THE BEST PLAYER IN THE UNIVERSE
 
 # Exercise 3
 
