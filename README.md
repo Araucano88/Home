@@ -1,6 +1,6 @@
 # Exercise 4
 
-1. Example
+1 Example
 For the first example i compare the total aera of Switzerland and Italy
 
 PREFIX prop: <http://dbpedia.org/property/>
@@ -17,7 +17,7 @@ Because the area from italy is bigger.
 Area Switzerland:41285000000.000000
 Area Italy:301338000000.000000
 
-2. Example
+2 Example
 Get te countries of Europe.
 I used this http://dbpedia.org/snorql/?query for get a list wiht the names of the countries
 
@@ -30,7 +30,7 @@ SELECT ?place WHERE {
     ?place rdf:type dbpedia-owl:Country
 }
 
-3. Example
+3 Example
 Show all clubs where Lionel Messi has played untill now.
 I used this http://dbpedia.org/snorql/?query for get a list
 
